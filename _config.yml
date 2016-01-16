@@ -1,6 +1,6 @@
 name: Lonn Litchfield
 favicon: null
-layout_spectrum: 0.25095
+layout_spectrum: 0.7865973738953471
 typography_spectrum: 0.5286248549818993
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#fbfbfb'
-    - '#9a9a9a'
-    - '#0050f6'
-    - '#00e0f4'
-  brandStrength: 0.1875
-  lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5140517179388553
+  lightness: 0.165331402560696
+  saturation: 0.1997698254417628
+  rhythmicContrast: 0.4079876937903464
 purpose: []
