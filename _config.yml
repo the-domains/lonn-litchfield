@@ -1,28 +1,40 @@
-name: Lonn Litchfield
 favicon: null
-layout_spectrum: 0.7865973738953471
-typography_spectrum: 0.5286248549818993
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Lonn Litchfield
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.5140517179388553
-  lightness: 0.165331402560696
-  saturation: 0.1997698254417628
-  rhythmicContrast: 0.4079876937903464
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5878136
+  brandStrength: 0.1875
+  lightness: 0.7526882
+  brandColors:
+    - '#000000'
+    - '#fbfbfb'
+    - '#9a9a9a'
+    - '#0050f6'
+    - '#00e0f4'
+  rhythmicContrast: 0.3369175
+typography_spectrum: 0.4103943
+layout_spectrum: 0.3082437
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
